@@ -24,4 +24,3 @@ public class ArrayInteraction {
         System.out.println("Common elements: " + common);
     }
 }
-`
